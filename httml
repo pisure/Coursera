@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página Responsive</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Título de la Página</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Pollo</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper, arcu eu gravida sollicitudin, felis justo molestie lacus, sed semper felis dui nec lectus.</p>
+        </section>
+        <section>
+            <h2>Carne de Res</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper, arcu eu gravida sollicitudin, felis justo molestie lacus, sed semper felis dui nec lectus.</p>
+        </section>
+        <section>
+            <h2>Sushi</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper, arcu eu gravida sollicitudin, felis justo molestie lacus, sed semper felis dui nec lectus.</p>
+        </section>
+    </div>
+</body>
+</html>
